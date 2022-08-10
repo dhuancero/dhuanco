@@ -1,0 +1,13 @@
+.verPortafolio {
+  width: 100%;
+  display: flex;
+  flex: 1 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.verPortafolio li {
+  list-style: none;
+  margin: 5px;
+}

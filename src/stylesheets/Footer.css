@@ -1,0 +1,16 @@
+.piePagina {
+  display: flex;
+  flex-flow: column wrap;
+  /* justify-content: flex-end; */
+}
+.seccion-1 {
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.piePagina p {
+  text-align: end;
+  color: rgb(32, 32, 32);
+}

@@ -1,0 +1,10 @@
+.contenido {
+  margin: 50px auto;
+  width: 90%;
+  display: flex;
+  flex: 1 1;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  /* border: solid 1px green; */
+  padding: 10px;
+}

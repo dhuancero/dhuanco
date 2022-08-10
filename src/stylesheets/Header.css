@@ -1,0 +1,68 @@
+.headerContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerTitle {
+  padding: 10px;
+  font-family: "Roboto Flex", sans-serif;
+}
+
+.headerTitle h1 {
+  color: rgb(32, 32, 32);
+  font-size: large;
+  font-weight: 500;
+}
+.headerTitle h2 {
+  color: rgb(32, 32, 32);
+  text-align: center;
+  font-size: large;
+  font-weight: 400;
+}
+
+/* ========= NAV CONTENT ======== */
+
+.headerNav {
+  font-family: "Roboto Flex", sans-serif;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.navContent {
+  margin: 5px;
+  padding: 5px;
+}
+.navContent a {
+  color: rgb(32, 32, 32);
+  padding: 10px;
+  text-decoration: none;
+  font-weight: 400;
+  margin: 5px;
+}
+.navContent a:hover {
+  opacity: 0.6;
+}
+
+.rrssContent {
+  margin: 2px;
+}
+
+.rrssContent a {
+  text-decoration: none;
+  border: solisd 1px;
+  color: rgb(32, 32, 32);
+  margin: 5px;
+}
+
+.rrssContent a:hover {
+  opacity: 0.6;
+}
+
+.navabar {
+  border: solid 1px;
+}
