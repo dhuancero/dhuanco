@@ -1,7 +1,7 @@
 import React from "react";
 
 import "../stylesheets/aboutme.css";
-import Nofoto from "../img/nofoto_perfil.jpg";
+import Nofoto from "../img/foto_perfil.jpg";
 
 export default function AboutMe() {
   return (
