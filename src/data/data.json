@@ -4,25 +4,25 @@
     "name": "Agenda de Contactos",
     "image": "./images/agenda-contactos.png",
     "lenguajes": ["html5", "js", "css3", "git"],
-    "url": "http://dhuanco.com"
+    "url": "https://agenda-contactos-beta.vercel.app/"
   },
   {
     "id": 2,
-    "name": "Web Responsive Ejercicio",
+    "name": "Web Responsive Restaurante",
     "image": "./images/web-responsive.png",
     "lenguajes": ["html5", "js", "css3", "git"],
-    "url": "http://dhuanco.com"
+    "url": "https://dhuancero.github.io/web-responsive/"
   },
   {
     "id": 3,
     "name": "Color switch",
     "image": "./images/color-switch.png",
     "lenguajes": ["html5","js", "css3", "git"],
-    "url": "http://dhuanco.com"
+    "url": "https://color-switch-pi.vercel.app/"
   },
   {
     "id": 4,
-    "name": "Agenda de Contactos",
+    "name": "Web Personal",
     "image": "./images/agenda-contactos.png",
     "lenguajes": ["html5", "js", "css3", "git"],
     "url": "http://dhuanco.com"
@@ -32,13 +32,13 @@
     "name": "Web Responsive Ejercicio",
     "image": "./images/web-responsive.png",
     "lenguajes": ["html5", "js", "css3", "git"],
-    "url": "http://dhuanco.com"
+    "url": "https://dhuancero.github.io/cursoplanform/"
   },
   {
     "id": 6,
-    "name": "Color switch",
+    "name": "Diccionario",
     "image": "./images/color-switch.png",
-    "lenguajes": ["html5","js", "css3", "git"],
+    "lenguajes": ["php","Jquery", "Bootstrap", "html5"],
     "url": "http://dhuanco.com"
   }
 ]
