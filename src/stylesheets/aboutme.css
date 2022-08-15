@@ -20,6 +20,7 @@
   /* border: solid 1px; */
   text-align: center;
   height: 200px;
+  border-radius: 50%;
 }
 
 .contentAbout {

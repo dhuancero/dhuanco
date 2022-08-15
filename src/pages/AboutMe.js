@@ -12,7 +12,7 @@ export default function AboutMe() {
           <img src={Foto} alt="foto de perfil" />
         </div>
         <div className="titulo">
-          <h2>Hola, soy David Huanco Acero</h2>
+          <h2> 👋 ¡Hola!, soy David Huanco Acero</h2>
           <p>Desarrollador Web | Full Stack</p>
         </div>
       </div>
@@ -44,8 +44,8 @@ export default function AboutMe() {
         </p>
         <br />
         <p>
-          Pero heme aquí con 35 años volviendo al mundo de la tecnología.Y
-          espero que de forma permanente 😁.
+          Pero heme aquí con 35 años volviendo al mundo de la tecnología.Y, esta
+          vez, espero que de forma permanente 😁.
         </p>
         <br />
         <p>
@@ -54,7 +54,12 @@ export default function AboutMe() {
         </p>
 
         <div className="cvDownloader">
-          <a class="nav-link" href="/#">
+          <a
+            class="nav-link"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://drive.google.com/uc?export=download&id=1zyrFKuxDCUpTBOj1VM1Fi8OAwWEKjZyp"
+          >
             Descargar CV
           </a>
         </div>
