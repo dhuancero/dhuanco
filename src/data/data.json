@@ -2,43 +2,50 @@
   {
     "id": 1,
     "name": "Agenda de Contactos",
-    "image": "./images/agenda-contactos.png",
+    "image": "./images/default.png",
     "lenguajes": ["html5", "js", "css3", "git"],
     "url": "https://agenda-contactos-beta.vercel.app/"
   },
   {
     "id": 2,
-    "name": "Web Responsive Restaurante",
-    "image": "./images/web-responsive.png",
-    "lenguajes": ["html5", "js", "css3", "git"],
-    "url": "https://dhuancero.github.io/web-responsive/"
+    "name": "Diccionario v1",
+    "image": "./images/default.png",
+    "lenguajes": ["html5", "js", "css3", "Bootstrap"],
+    "url": "https://diccionario.dhuanco.com"
   },
   {
     "id": 3,
     "name": "Color switch",
-    "image": "./images/color-switch.png",
-    "lenguajes": ["html5","js", "css3", "git"],
+    "image": "./images/default.png",
+    "lenguajes": ["html5", "js", "css3", "git"],
     "url": "https://color-switch-pi.vercel.app/"
   },
   {
     "id": 4,
-    "name": "Web Personal",
-    "image": "./images/agenda-contactos.png",
-    "lenguajes": ["html5", "js", "css3", "git"],
-    "url": "http://dhuanco.com"
+    "name": "Web Responsive Restaurante",
+    "image": "./images/default.png",
+    "lenguajes": ["html5", "Jquery", "css3", "git"],
+    "url": "https://dhuancero.github.io/web-responsive/"
   },
   {
     "id": 5,
     "name": "Web Responsive Ejercicio",
-    "image": "./images/web-responsive.png",
+    "image": "./images/default.png",
     "lenguajes": ["html5", "js", "css3", "git"],
     "url": "https://dhuancero.github.io/cursoplanform/"
   },
   {
     "id": 6,
-    "name": "Diccionario",
-    "image": "./images/color-switch.png",
-    "lenguajes": ["php","Jquery", "Bootstrap", "html5"],
-    "url": "http://dhuanco.com"
+    "name": "Contador básico",
+    "image": "./images/default.png",
+    "lenguajes": ["html5", "js", "css3"],
+    "url": "http://dhuancero.github.io/contador-basico/"
+  },
+  {
+    "id": 7,
+    "name": "web Interactiva",
+    "image": "./images/default.png",
+    "lenguajes": ["html5", "js", "css3"],
+    "url": "http://dhuancero.github.io/web_interactiva"
   }
 ]
